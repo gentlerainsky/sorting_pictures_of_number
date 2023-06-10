@@ -1,0 +1,5 @@
+.Trash-0
+.ipynb_checkpoints
+data-mnist/
+lightning_logs/
+__pycache__
